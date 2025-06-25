@@ -44,9 +44,9 @@ I'm also currently prototyping assistant agents that learn from context, adapt t
 
 ## 🚀 Let's Build the Future
 
-> "Technology is best when it brings people together — and smarter when it learns from them."
+> "Technology is best when it brings people together, and smarter when it learns from them."
 
-If you're building something with AI, energy optimization or digital twins — let's talk!
+If you're building something with AI, energy optimization, digital twins, LMM, or just clean Python projects ... let's talk!
 
 ---
 
