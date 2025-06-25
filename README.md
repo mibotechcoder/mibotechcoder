@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Michael (aka mibotechcoder) ##
 
 🚀 AI Developer | Mechatronics Engineer | ML Enthusiast | Python Learner
+
 🎯 Exploring the future of intelligent control systems, energy optimization, and digital twins.
 
 ## 🧠 About Me
