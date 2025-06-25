@@ -1,16 +1,18 @@
-👋 Hi, I'm Michael (aka mibotechcoder)
+👋 ## Hi, I'm Michael (aka mibotechcoder) ##
 
 🚀 AI Developer | Mechatronics Engineer | ML Enthusiast | Python Learner
 🎯 Exploring the future of intelligent control systems, energy optimization, and digital twins.
 
 ## 🧠 About Me
 
-I'm a tech-savvy mechatronics engineer turned AI enthusiast with 30+ years of programming experience.  
-Currently, I'm focused on building smart applications that bridge classic control systems and modern AI/ML models — with projects ranging from heat pump simulators to energy-aware reinforcement learning.
+I'm a tech-savvy, solution-driven mechatronics engineer and AI innovator with 30+ years of coding experience.  
+My passion lies in developing Model Context Protocols (MCPs) and modular Language Model Modules (LMMs) — smart agents that can interface with applications, data, and humans via natural language.
 
-- 🧑‍💻 Always learning Python, Dash, and ML tools.
-- 💡 Passionate about using AI for real-world automation and decision support.
-- 📍 Based in Sweden, available for remote or hybrid positions.
+I specialize in building bridges between traditional control logic and modern AI models. Whether it's optimizing heat pump behavior, parsing vCards into Power Apps, or simulating EV charging times — I enjoy solving complex problems with elegant, modular design.
+
+My goal is to enable AI to act meaningfully in any domain where digital logic and automation can improve decision-making, comfort, or sustainability.
+
+I'm also currently prototyping assistant agents that learn from context, adapt to changing inputs, and provide transparent support across industries — from smart buildings and energy to transportation and knowledge work.
 
 <!-- 📫 Reach me at **michael@wolfnova.ai**  
 🌐 LinkedIn: [linkedin.com/in/ditt-namn](https://linkedin.com/in/ditt-namn) -->
