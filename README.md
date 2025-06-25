@@ -25,7 +25,7 @@ Currently, I'm focused on building smart applications that bridge classic contro
 | **ThermoAdapt** | Reinforcement learning with dual reward (comfort + electricity prices) | 'Q-Learning', 'Custom Reward', 'Weather' |
 | **ThermoChain** | Concept project using blockchain principles | 'Token Logic', 'Smart Contracts', 'Simulation' |
 | **SmartSaverBot** | Moderation & assistant bot for interactive budgeting tool, gain a clear overview of their annual finances | 'Python', 'Dash', 'Pandas', 'Plotly', 'LLM', 'Finance' |
-| **EV-Calculator** | Visual battery range and charging time simulator for electric vehicles | 'Dash', 'Plotly', 'Slider (kWh cap)','Real-time Update' |
+| **[EV-Calculator](https://ev-charge-simulator.onrender.com/)** | Visual battery range and charging time simulator for electric vehicles | 'Dash', 'Plotly', 'Slider (kWh cap)','Real-time Update' |
 | **ML-ModelCreator** | GUI to train and compare ML models on simulated energy data | 'TensorFlow', 'PyTorch', 'Dash' |
 | **LCC-Calculator** | Life Cycle Cost calculator for comparing energy investments | 'Python', 'Finance', 'Dash' |
 
