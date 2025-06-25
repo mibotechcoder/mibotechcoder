@@ -2,7 +2,7 @@
 
 🚀 AI Developer | Mechatronics Engineer | ML Enthusiast | Python Learner
 
-🎯 Exploring the future of intelligent control systems, energy optimization, and digital twins.
+🎯 Building modular AI agents that bring automation, context, and intelligence to any domain
 
 ## 🧠 About Me
 
