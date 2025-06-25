@@ -12,7 +12,7 @@ Currently, I'm focused on building smart applications that bridge classic contro
 - 💡 Passionate about using AI for real-world automation and decision support.
 - 📍 Based in Sweden, available for remote or hybrid positions.
 
-📫 Reach me at **michael@wolfnova.ai**  
+<!-- 📫 Reach me at **michael@wolfnova.ai**  -->
 🌐 LinkedIn: [linkedin.com/in/ditt-namn](https://linkedin.com/in/ditt-namn)
 
 ## 🔬 Ongoing Projects
