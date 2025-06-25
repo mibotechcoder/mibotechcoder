@@ -6,13 +6,13 @@
 ## 🧠 About Me
 
 I'm a tech-savvy, solution-driven mechatronics engineer and AI innovator with 30+ years of coding experience.  
-My passion lies in developing Model Context Protocols (MCPs) and modular Language Model Modules (LMMs) — smart agents that can interface with applications, data, and humans via natural language.
+My passion lies in developing Model Context Protocols (MCPs) and modular Language Model Modules (LMMs), smart agents that can interface with applications, data, and humans via natural language.
 
-I specialize in building bridges between traditional control logic and modern AI models. Whether it's optimizing heat pump behavior, parsing vCards into Power Apps, or simulating EV charging times — I enjoy solving complex problems with elegant, modular design.
+I specialize in building bridges between traditional control logic and modern AI models. Whether it's optimizing heat pump behavior, parsing vCards into Power Apps, or simulating EV charging times, I enjoy solving complex problems with elegant, modular design.
 
 My goal is to enable AI to act meaningfully in any domain where digital logic and automation can improve decision-making, comfort, or sustainability.
 
-I'm also currently prototyping assistant agents that learn from context, adapt to changing inputs, and provide transparent support across industries — from smart buildings and energy to transportation and knowledge work.
+I'm also currently prototyping assistant agents that learn from context, adapt to changing inputs, and provide transparent support across industries, from smart buildings and energy to transportation and knowledge work.
 
 <!-- 📫 Reach me at **michael@wolfnova.ai**  
 🌐 LinkedIn: [linkedin.com/in/ditt-namn](https://linkedin.com/in/ditt-namn) -->
