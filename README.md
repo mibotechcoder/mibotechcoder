@@ -22,8 +22,8 @@ I`m also currently prototyping assistant agents that learn from context, adapt t
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **ThermoAI** | Core project simulating intelligent heat pump control with AI and rule-based logic | `Dash`, `Pandas`, `CSV`, `Plotly` |
-| **ThermoPilot** | Adaptive controller that learns to optimize indoor climate over time [1](assets/01_ThermoPilot_Grdm.png) [2](assets/01_ThermoPilot_OnOff.png) | Supervised ML`, `CSV`, `Time Series` |
+| **ThermoAI** | Core project simulating intelligent heat pump control with AI and rule-based logic | `Dash`  `Pandas`  `CSV`  `Plotly` |
+| **ThermoPilot** | Adaptive controller that learns to optimize indoor climate over time [1](assets/01_ThermoPilot_Grdm.png) [2](assets/01_ThermoPilot_OnOff.png) | `Supervised ML`, `CSV`, `Time Series` |
 | **TLaRM** | 	Generates a full year of simulation data for model training [1](assets/02_TLaRM.png) | `DataGen`, `Pandas`, `CSV` |
 | **ThermoAdapt** | Reinforcement learning with dual reward (comfort + electricity prices) | `Q-Learning`, `Custom Reward`, `Weather` |
 | **ThermoChain** | Concept project using blockchain principles | `Token Logic`, `Smart Contracts`, `Simulation` |
