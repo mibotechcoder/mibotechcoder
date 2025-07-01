@@ -17,6 +17,7 @@ I`m also currently prototyping assistant agents that learn from context, adapt t
 
 <!-- 📫 Reach me at **michael@wolfnova.ai**  
 🌐 LinkedIn: [linkedin.com/in/ditt-namn](https://linkedin.com/in/ditt-namn) -->
+📝 [My articles (Swedish)](https://mibotechcoder.github.io/tech-and-future-reflections/) 
 
 ## 🔬 Ongoing Projects
 
