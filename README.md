@@ -32,6 +32,7 @@ I`m also currently prototyping assistant agents that learn from context, adapt t
 | **[EV-Calculator](https://ev-charge-simulator.onrender.com/)** | Visual battery range and charging time simulator for electric vehicles | `Dash` `Plotly` `Slider (kWh cap)` `Real-time Update` |
 | **ML-ModelCreator** | GUI to train and compare ML models on simulated energy data | `TensorFlow` `PyTorch` `Dash` |
 | **LCC-Calculator** | Life Cycle Cost calculator for comparing energy investments | `Python` `Finance` `Dash` |
+| **[My AI CV Gateway](https://mibotech-cv-gateway.onrender.com)** | Chatt with my CV in Swedish, English, German or Danish | personal |
 
 
 ---
